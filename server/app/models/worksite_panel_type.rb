@@ -1,0 +1,2 @@
+class WorksitePanelType < ApplicationRecord
+end
