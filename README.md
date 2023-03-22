@@ -55,5 +55,9 @@ bundle
 ```
 
 ```
+rails db:setup
+```
+
+```
 rails s
 ```
